@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Juriba.ApiProject", "Juriba.ApiProject\Juriba.ApiProject.csproj", "{99752982-7712-4925-92C0-892979ACB91D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Juriba.ApiProject.Tests", "Juriba.ApiProject.Tests\Juriba.ApiProject.Tests.csproj", "{3225EFAB-5520-4725-9257-DD1F995DF6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99752982-7712-4925-92C0-892979ACB91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99752982-7712-4925-92C0-892979ACB91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99752982-7712-4925-92C0-892979ACB91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99752982-7712-4925-92C0-892979ACB91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3225EFAB-5520-4725-9257-DD1F995DF6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3225EFAB-5520-4725-9257-DD1F995DF6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3225EFAB-5520-4725-9257-DD1F995DF6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3225EFAB-5520-4725-9257-DD1F995DF6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A7DBD8-E3C2-4969-894E-5D7BFF2DAE97}
+	EndGlobalSection
+EndGlobal
